@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harpsichord Horror", "Harpsichord Horror.csproj", "{3428B673-C2F1-8AFB-0546-0D926F0FC60A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harpsichord Horror.Editor", "Harpsichord Horror.Editor.csproj", "{8B5712D8-24CD-96AA-4B5F-F7D38D76D0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3428B673-C2F1-8AFB-0546-0D926F0FC60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3428B673-C2F1-8AFB-0546-0D926F0FC60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3428B673-C2F1-8AFB-0546-0D926F0FC60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3428B673-C2F1-8AFB-0546-0D926F0FC60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5712D8-24CD-96AA-4B5F-F7D38D76D0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5712D8-24CD-96AA-4B5F-F7D38D76D0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5712D8-24CD-96AA-4B5F-F7D38D76D0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5712D8-24CD-96AA-4B5F-F7D38D76D0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
